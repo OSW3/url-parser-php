@@ -1,0 +1,18 @@
+{
+    "name": "osw3/url-parser-php",
+    "type": "library",
+    "description": "Provides a simple HTTP-Client",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OSW3\\UrlParserPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OSW3",
+            "email": "contact@osw3.net"
+        }
+    ],
+    "require": {}
+}

@@ -1,5 +1,5 @@
 <?php 
-namespace OSW3\UrlParserPhp;
+namespace OSW3\UrlParser;
 
 class Helper
 {

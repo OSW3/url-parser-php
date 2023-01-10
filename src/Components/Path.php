@@ -1,11 +1,11 @@
 <?php
-namespace OSW3\UrlParserPhp\Components;
+namespace OSW3\UrlParser\Components;
 
-use OSW3\UrlParserPhp\Helper;
-use OSW3\UrlParserPhp\Components\Query;
-use OSW3\UrlParserPhp\Components\Fragment;
-use OSW3\UrlParserPhp\Components\Protocol;
-use OSW3\UrlParserPhp\Components\AbstractComponent;
+use OSW3\UrlParser\Helper;
+use OSW3\UrlParser\Components\Query;
+use OSW3\UrlParser\Components\Fragment;
+use OSW3\UrlParser\Components\Protocol;
+use OSW3\UrlParser\Components\AbstractComponent;
 
 class Path extends AbstractComponent
 {

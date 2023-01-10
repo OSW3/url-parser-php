@@ -18,8 +18,8 @@ print_r("\n\n");
 
 require "../vendor/autoload.php";
 
-use OSW3\UrlParserPhp\Parser;
-use OSW3\UrlParserPhp\Components\Authority;
+use OSW3\UrlParser\Parser;
+use OSW3\UrlParser\Components\Authority;
 
 /// 2. HTTP Client Instance
 /// ======================================================================== ///

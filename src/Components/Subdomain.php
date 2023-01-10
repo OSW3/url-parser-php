@@ -1,9 +1,9 @@
 <?php
-namespace OSW3\UrlParserPhp\Components;
+namespace OSW3\UrlParser\Components;
 
-use OSW3\UrlParserPhp\Components\Host;
-use OSW3\UrlParserPhp\Components\Hostname;
-use OSW3\UrlParserPhp\Components\AbstractComponent;
+use OSW3\UrlParser\Components\Host;
+use OSW3\UrlParser\Components\Hostname;
+use OSW3\UrlParser\Components\AbstractComponent;
 
 class Subdomain extends AbstractComponent
 {

@@ -1,8 +1,8 @@
 <?php
-namespace OSW3\UrlParserPhp\Components;
+namespace OSW3\UrlParser\Components;
 
-use OSW3\UrlParserPhp\Components\Authority;
-use OSW3\UrlParserPhp\Components\AbstractComponent;
+use OSW3\UrlParser\Components\Authority;
+use OSW3\UrlParser\Components\AbstractComponent;
 
 class Hostname extends AbstractComponent
 {

@@ -1,7 +1,7 @@
 <?php 
-namespace OSW3\UrlParserPhp\Components;
+namespace OSW3\UrlParser\Components;
 
-use OSW3\UrlParserPhp\Helper;
+use OSW3\UrlParser\Helper;
 
 abstract class AbstractComponent
 {

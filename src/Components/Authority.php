@@ -1,8 +1,8 @@
 <?php
-namespace OSW3\UrlParserPhp\Components;
+namespace OSW3\UrlParser\Components;
 
-use OSW3\UrlParserPhp\Components\Protocol;
-use OSW3\UrlParserPhp\Components\AbstractComponent;
+use OSW3\UrlParser\Components\Protocol;
+use OSW3\UrlParser\Components\AbstractComponent;
 
 class Authority extends AbstractComponent
 {

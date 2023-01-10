@@ -1,9 +1,9 @@
 <?php
-namespace OSW3\UrlParserPhp\Components;
+namespace OSW3\UrlParser\Components;
 
-use OSW3\UrlParserPhp\Helper;
-use OSW3\UrlParserPhp\Components\Scheme;
-use OSW3\UrlParserPhp\Components\AbstractComponent;
+use OSW3\UrlParser\Helper;
+use OSW3\UrlParser\Components\Scheme;
+use OSW3\UrlParser\Components\AbstractComponent;
 
 class Protocol extends AbstractComponent
 {

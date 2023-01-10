@@ -1,21 +1,21 @@
 <?php 
-namespace OSW3\UrlParserPhp;
+namespace OSW3\UrlParser;
 
-use OSW3\UrlParserPhp\Components\Tld;
-use OSW3\UrlParserPhp\Components\Url;
-use OSW3\UrlParserPhp\Components\Host;
-use OSW3\UrlParserPhp\Components\Path;
-use OSW3\UrlParserPhp\Components\Port;
-use OSW3\UrlParserPhp\Components\Query;
-use OSW3\UrlParserPhp\Components\Domain;
-use OSW3\UrlParserPhp\Components\Scheme;
-use OSW3\UrlParserPhp\Components\Fragment;
-use OSW3\UrlParserPhp\Components\Hostname;
-use OSW3\UrlParserPhp\Components\Password;
-use OSW3\UrlParserPhp\Components\Protocol;
-use OSW3\UrlParserPhp\Components\Username;
-use OSW3\UrlParserPhp\Components\Authority;
-use OSW3\UrlParserPhp\Components\Subdomain;
+use OSW3\UrlParser\Components\Tld;
+use OSW3\UrlParser\Components\Url;
+use OSW3\UrlParser\Components\Host;
+use OSW3\UrlParser\Components\Path;
+use OSW3\UrlParser\Components\Port;
+use OSW3\UrlParser\Components\Query;
+use OSW3\UrlParser\Components\Domain;
+use OSW3\UrlParser\Components\Scheme;
+use OSW3\UrlParser\Components\Fragment;
+use OSW3\UrlParser\Components\Hostname;
+use OSW3\UrlParser\Components\Password;
+use OSW3\UrlParser\Components\Protocol;
+use OSW3\UrlParser\Components\Username;
+use OSW3\UrlParser\Components\Authority;
+use OSW3\UrlParser\Components\Subdomain;
 
 class Parser
 {

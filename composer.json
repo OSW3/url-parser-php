@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "OSW3\\UrlParserPhp\\": "src/"
+            "OSW3\\UrlParser\\": "src/"
         }
     },
     "authors": [

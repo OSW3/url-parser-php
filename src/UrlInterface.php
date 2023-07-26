@@ -13,7 +13,7 @@ final class UrlInterface
     private string|null $tld = null;
     private string|null $domain = null;
     private string|null $subdomain = null;
-    private string|null $port = null;
+    private int|null $port = null;
     private string|null $path = null;
     private string|null $query = null;
     private string|null $fragment = null;

@@ -19,7 +19,7 @@ use OSW3\UrlParser\Components\Subdomain;
 
 class Parser
 {
-    public function parse(string $url, bool $asArray = false, bool $condensed = false)
+    public function parse(string $url, bool $asArray = false, bool $condensed = true)
     {
         $components = array(
             'url'       => new Url($url),
